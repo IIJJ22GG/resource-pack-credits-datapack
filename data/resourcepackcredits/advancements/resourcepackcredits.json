@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Resource Pack Credits",
+        "description": "Every Resource Pack Credited!",
+        "icon": {
+            "item": "minecraft:painting"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:resourcepackcredits",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

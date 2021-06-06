@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "<author/group/brand name>",
+        "description": "",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: '<author_name_or_group-brand_logo_head_id>'}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "credits:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

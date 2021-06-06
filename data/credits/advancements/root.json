@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Used Resourcepacks",
+        "description": "",
+        "icon": {
+            "item": "minecraft:painting"
+        },
+        "background": "minecraft:textures/block/grey_concrete.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
