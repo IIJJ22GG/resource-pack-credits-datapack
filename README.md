@@ -13,4 +13,4 @@ If you want to add multiple resource pack listings, and they were made by one pe
 
 <hr>
 
-I, iijj22gg, claim all rights to this datapack, except those revoked by the "Creative Commons Zero v1.0 Universal" license as described in the LICENSE file. <br> That is, suggestions are welcome.
+I, iijj22gg, claim all rights to this datapack, except those revoked by the "Creative Commons Zero v1.0 Universal" license as described in the LICENSE file. <br> That is, feedback and suggestions are welcome.
