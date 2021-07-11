@@ -20,6 +20,6 @@ If you want to add multiple resource pack listings which were made by the same p
 Finally, the pack format in 'pack.mcmeta' is set to '7'. If you do not want earlier versions of Minecraft to complain, just change that value to correspond with the correct version.
 <br><br><hr>
 
-iijj22gg claims all rights to this datapack, except those revoked by the "Creative Commons Zero v1.0 Universal" license as described in the LICENSE file. <br> Meaning, feedback and suggestions are welcome. A program to perform the instructions for the user is coming soon, unless someone does it first, in which case a link may be provided in this file upon request.
+iijj22gg claims all rights to this datapack, except those revoked by using the "Creative Commons Zero v1.0 Universal" license as described in the LICENSE file. <br> Meaning, feedback and suggestions are welcome. A program to perform the instructions for the user is coming soon, unless someone does it first, in which case a link may be provided in this file upon request.
 <hr>
 <img src="https://i.imgur.com/ltLPoQp.png" alt="Datapack Conventions Certified Datapack Banner">
